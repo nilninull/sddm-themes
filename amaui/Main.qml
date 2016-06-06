@@ -133,7 +133,7 @@ Rectangle {
                     id: clock
                     anchors.centerIn: parent
                     color: config.clock_color
-                    timeFont.family: "Oxygen"
+                    timeFont.family: config.clock_font
                 }
             }
 
