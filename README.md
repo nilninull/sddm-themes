@@ -3,9 +3,6 @@
 
 The themes are configurable. It's means you can change the theme without touching qml files. Only modify the theme.conf file.
 
-On Internet, there are some examples for this purpose. 
-But in my environment, these are not working.
-
 ## my current environment
 - Qt 5.5.1
 - sddm 0.13.0
