@@ -75,7 +75,6 @@ Rectangle {
         source: media_player
         fillMode: VideoOutput.PreserveAspectCrop
     }
-    */
 
     MediaPlayer {
         source: random_select(config.video_files)
@@ -84,6 +83,7 @@ Rectangle {
         autoPlay: true
         loops: -1
     }
+    */
 
     Audio {
         id: musicPlayer
