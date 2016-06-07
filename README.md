@@ -35,6 +35,13 @@ text_color=black
 clock_color=black
 clock_font=Oxygen
 ```
+change the colors and font
+```
+delay_time = 5
+fadein_duration = 0.5
+fadeout_duration = 5
+```
+times for fading start and fade in/out durations (seconds)
 
 ### for amaui
 ```
